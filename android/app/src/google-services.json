@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837452750041",
+    "project_id": "fanpager-be84e",
+    "storage_bucket": "fanpager-be84e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837452750041:android:b36c67a267e9580fae32c8",
+        "android_client_info": {
+          "package_name": "FanPager.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837452750041-vmabrt660jlnhrf8h5cssle2aqe7im6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBElbX0LmsFhQZgjVmYfSUl7awOo7e4mog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837452750041-vmabrt660jlnhrf8h5cssle2aqe7im6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
